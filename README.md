@@ -20,11 +20,12 @@ This will print the name of the newly created image file.
 
 ## Contributions
 
-Contribute away! DM me on twitter (@DanielVF) if you make a PR - my email is overloaded.
+Contribute away! DM me on twitter at [@DanielVF](https://twitter.com/danielvf) if you make a PR - my email is overloaded.
 
 Wishlist:
 
 - Should be able take contract bytecode from std in
 - Seperate layout code from drawing code
+- Themes
 - Better install instructions
 - HTML output option with per instruction tooltips.
