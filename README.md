@@ -26,6 +26,7 @@ Wishlist:
 
 - Should be able take contract bytecode from std in
 - Seperate layout code from drawing code
-- Themes
+- Color themes
 - Better install instructions
+- Readme section to explain what this is showing  
 - HTML output option with per instruction tooltips.
