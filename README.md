@@ -2,6 +2,8 @@
 
 This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract.
 
+![Example image](https://user-images.githubusercontent.com/837/161564178-7e545f3f-f6ff-45ba-8f3a-b8ff915449e6.png)
+
 ## To Install
 
 It's written in nim. You will need to install nim, and the one dependency that the code will complain about.
