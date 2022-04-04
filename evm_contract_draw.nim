@@ -1,3 +1,8 @@
+# Draw smart contract bytecode
+# By Daniel Von Fange
+# MIT License
+# Enjoy
+
 import nimPNG
 import std/[times, os, strutils]
 
