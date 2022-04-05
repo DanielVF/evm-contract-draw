@@ -6,7 +6,13 @@ This draws each byte of bycode in an EVM contract, allowing you to get a quick o
 
 ## To Install
 
-It's written in nim. You will need to install nim, and the one dependency that the code will complain about.
+It's written in nim. 
+1. You will need to install nim as mentioned here: https://nim-lang.org/install.html 
+
+2. Install nimPNG package using the command:
+```bash
+nimble install nimPNG
+```
 
 ## To Use
 
